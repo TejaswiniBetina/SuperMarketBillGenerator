@@ -1,1 +1,3 @@
-# In this file Will genrate the Supermarket Bills
+ Supermarket Bills
+
+In this file generate the super market bills
